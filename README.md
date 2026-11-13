@@ -5,7 +5,7 @@ Gosto de transformar tarefas manuais e repetitivas em sistemas e automações qu
 
 - 🔭 Atualmente estudando **Java com Spring Boot** e construindo APIs REST
 - 🐍 Desenvolvo **automações em Python** integradas com Excel (relatórios, controle de dados, processos)
-- 💼 Aberto a oportunidades de **estágio / desenvolvedor júnior** e a **freelas de automação**
+- 🤝 Aberto a projetos e colaborações em **automação** e **back-end**
 - 📍 São Paulo, SP
 
 ---
